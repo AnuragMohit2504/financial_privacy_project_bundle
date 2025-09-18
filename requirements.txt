@@ -1,0 +1,13 @@
+pandas
+numpy
+faker
+spacy
+sentence-transformers
+faiss-cpu
+transformers
+peft
+fastapi
+uvicorn
+python-multipart
+cryptography
+python-dotenv
